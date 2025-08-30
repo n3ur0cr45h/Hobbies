@@ -9,19 +9,21 @@
 ██║░░██║╚█████╔╝██████╦╝██████╦╝██║███████╗██████╔╝
 ╚═╝░░╚═╝░╚════╝░╚═════╝░╚═════╝░╚═╝╚══════╝╚═════╝░
 </h4>
+</div>
 
 ----
-
-</div>
 
 <details>
   <summary><b> 1. Leitura - Retrocomputação </b></summary>
 <div align="Left"> 
 <br>
 
-| ID             | Título                      | Autor      | URL | 
-| ---------------| ----------------------------|------------|-----| 
-
+| ID    | Título                              | Autor            |
+| ------| ------------------------------------|------------------|
+| R1.1  | The Nostalgia Nerds Retro Tech      | Peter Leigh      | 
+| R1.2  | The Cuckoos Egg                     | Clifford Stoll   |
 
 </div> 
 </details>
+
+----
