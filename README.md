@@ -35,11 +35,26 @@
 
 | ID    | Título                              |
 | ------| ------------------------------------|
-| R.2.1 | <a href="https://www.youtube.com/@ashtonsretrocomputerroom">Ashton’s Retro Computer Room</a> |
-| R.2.2 | <a href="https://www.youtube.com/@lgr">LGR</a> |
-| R.2.3 | <a href="https://bigboxcollection.com">Big Box Collection</a> |
+| R2.1 | <a href="https://www.youtube.com/@ashtonsretrocomputerroom">Ashton’s Retro Computer Room</a> |
+| R2.2 | <a href="https://www.youtube.com/@lgr">LGR</a> |
+| R2.3 | <a href="https://bigboxcollection.com">Big Box Collection</a> |
 
 </div> 
 </details>
 
 ----
+
+<details>
+  <summary><b> 3. Artes | Design | Customizações </b></summary>
+<div align="Left"> 
+<br>
+
+| ID    | Título                              |
+| ------| ------------------------------------|
+| A3.1  | |
+
+</div> 
+</details>
+
+----
+
