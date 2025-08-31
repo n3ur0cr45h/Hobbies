@@ -18,10 +18,10 @@
 <div align="Left"> 
 <br>
 
-| ID    | Título                              | Autor            |
-| ------| ------------------------------------|------------------|
-| R1.1  | The Nostalgia Nerds Retro Tech      | Peter Leigh      | 
-| R1.2  | The Cuckoos Egg                     | Clifford Stoll   |
+| ID    | Título                              | 
+| ------| ------------------------------------|
+| R1.1  | <a href="https://www.amazon.com.br/Nostalgia-Nerds-Retro-Tech-Computer/dp/1781575703/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1">The Nostalgia Nerd's Retro Tech</a> |
+| R1.2  | <a href="https://www.amazon.com.br/CUCKOOS-EGG-English-Clifford-Stoll-ebook/dp/B0083DJXCM/ref=sr_1_1?sr=8-1">Cuckoo's Egg</a> |
 
 </div> 
 </details>
@@ -37,6 +37,7 @@
 | ------| ------------------------------------|
 | R.2.1 | <a href="https://www.youtube.com/@ashtonsretrocomputerroom">Ashton’s Retro Computer Room</a> |
 | R.2.2 | <a href="https://www.youtube.com/@lgr">LGR</a> |
+| R.2.3 | <a href="https://bigboxcollection.com">Big Box Collection</a> |
 
 </div> 
 </details>
