@@ -35,9 +35,9 @@
 
 | ID    | Título                              |
 | ------| ------------------------------------|
-| R2.1 | <a href="https://www.youtube.com/@ashtonsretrocomputerroom">Ashton’s Retro Computer Room</a> |
-| R2.2 | <a href="https://www.youtube.com/@lgr">LGR</a> |
-| R2.3 | <a href="https://bigboxcollection.com">Big Box Collection</a> |
+| R2.1 | <a href="https://www.youtube.com/@ashtonsretrocomputerroom">Ashton’s Retro Computer Room </a> |
+| R2.2 | <a href="https://www.youtube.com/@lgr">LGR </a> |
+| R2.3 | <a href="https://bigboxcollection.com">Big Box Collection </a> |
 
 </div> 
 </details>
@@ -51,7 +51,7 @@
 
 | ID    | Título                              |
 | ------| ------------------------------------|
-| A3.1  | |
+| A3.1  | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.1.%20Notepad%2B%2B%20-%20Custom%20Theme.xml">Customização de Interface - Notepad++ </a> |
 
 </div> 
 </details>
