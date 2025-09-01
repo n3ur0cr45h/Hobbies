@@ -1,0 +1,131 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": 
+    [
+        {
+            "command": 
+            {
+                "action": "copy",
+                "singleLine": false
+            },
+            "id": "User.copy.644BA8F2"
+        },
+        {
+            "command": "paste",
+            "id": "User.paste"
+        },
+        {
+            "command": "find",
+            "id": "User.find"
+        },
+        {
+            "command": 
+            {
+                "action": "splitPane",
+                "split": "auto",
+                "splitMode": "duplicate"
+            },
+            "id": "User.splitPane.A6751878"
+        }
+    ],
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "keybindings": 
+    [
+        {
+            "id": "User.copy.644BA8F2",
+            "keys": "ctrl+c"
+        },
+        {
+            "id": "User.find",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "id": "User.paste",
+            "keys": "ctrl+v"
+        },
+        {
+            "id": "User.splitPane.A6751878",
+            "keys": "alt+shift+d"
+        }
+    ],
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "colorScheme": "Hacker",
+            "font": 
+            {
+                "builtinGlyphs": false,
+                "colorGlyphs": false,
+                "face": "Cascadia Mono",
+                "size": 10
+            }
+        },
+        "list": 
+        [
+            {
+                "colorScheme": "Hacker",
+                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell"
+            },
+            {
+                "colorScheme": "Hacker",
+                "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "Prompt de comando"
+            },
+            {
+                "colorScheme": "Hacker",
+                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+                "hidden": false,
+                "name": "Azure Cloud Shell",
+                "source": "Windows.Terminal.Azure"
+            },
+            {
+                "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
+                "hidden": false,
+                "name": "Git Bash",
+                "source": "Git"
+            }
+        ]
+    },
+    "schemes": 
+    [
+        {
+            "background": "#000000",
+            "black": "#05050C",
+            "blue": "#00FF00",
+            "brightBlack": "#00FF00",
+            "brightBlue": "#00FF00",
+            "brightCyan": "#00FF00",
+            "brightGreen": "#00FF00",
+            "brightPurple": "#00FF00",
+            "brightRed": "#00FF00",
+            "brightWhite": "#000000",
+            "brightYellow": "#00FF00",
+            "cursorColor": "#00FF00",
+            "cyan": "#00FF00",
+            "foreground": "#00FF00",
+            "green": "#00FF00",
+            "name": "Hacker",
+            "purple": "#00FF00",
+            "red": "#00FF00",
+            "selectionBackground": "#000000",
+            "white": "#00FF00",
+            "yellow": "#00FF00"
+        }
+    ],
+    "themes": []
+}
