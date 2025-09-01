@@ -848,12 +848,12 @@ Credits:
     </LexerStyles>
     <GlobalStyles>
         <!-- Attention : Don't modify the name of styleID="0" -->
-        <WidgetStyle name="Global override" styleID="0" fgColor="00FF00" bgColor="0C1021" fontName="DejaVu Sans Mono" fontStyle="0" fontSize="10"></WidgetStyle>
+        <WidgetStyle name="Global override" styleID="0" fgColor="00FF00" bgColor="000000" fontName="DejaVu Sans Mono" fontStyle="0" fontSize="10"></WidgetStyle>
         <WidgetStyle name="Default Style" styleID="32" fgColor="00FF40" bgColor="0C1021" fontName="DejaVu Sans Mono" fontStyle="0" fontSize="10"></WidgetStyle>
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="00FF00" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10"></WidgetStyle>
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="00FF00" bgColor="0C1021" fontName="" fontStyle="1" fontSize="10"></WidgetStyle>
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="00FF40" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10"></WidgetStyle>
-        <WidgetStyle name="Current line background colour" styleID="0" bgColor="121830"></WidgetStyle>
+        <WidgetStyle name="Current line background colour" styleID="0" bgColor="000000"></WidgetStyle>
         <!-- In below rule 'fgColor' attribute for 'Selected text colour' can be unlocked with a enableSelectFgColor.xml file -->
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="008000" fgColor="8000FF"></WidgetStyle>
         <WidgetStyle name="Multi-selected text color" styleID="0" bgColor="008000"></WidgetStyle>
