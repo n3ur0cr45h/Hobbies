@@ -56,8 +56,6 @@
 | A3.3    | <a href="https://vscodethemes.com/e/Jaakko.black/black">Customização de Interface - VS Code </a> |
 | A3.3.1  | <a href="https://vscodethemes.com/e/Jaakko.black/black">Customização de Interface | Sintaxe - VS Code </a> |
 
-https://vscodethemes.com/e/Jaakko.black/black
-
 </div> 
 </details>
 
