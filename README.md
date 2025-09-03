@@ -55,6 +55,10 @@
 | A3.2    | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.2.%20Windows%20Terminal%20-%20Custom%20Theme.json">Customização de Interface - Terminal Windows </a> |
 | A3.3    | <a href="https://vscodethemes.com/e/Jaakko.black/black">Customização de Interface - VS Code </a> |
 | A3.3.1  | <a href="https://vscodethemes.com/e/Jaakko.black/black">Customização de Interface (Sintaxe) - VS Code </a> |
+| A3.4    | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.4.%20Samurai.jpg"> Wallpaper - Samurai </a> |
+| A3.5    | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.5.%20Deus%20Ex%20Universe.jpg">Wallpaper - Deus Ex Universe </a> |
+| A3.6    | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.6.%20Deus%20Ex.jpg">Wallpaper - Deus Ex </a> |
+| A3.7    | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.7.%20TriOptimum.jpg">Wallpaper - TriOptimum </a> |
 
 </div> 
 </details>
