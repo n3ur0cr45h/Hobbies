@@ -54,7 +54,7 @@
 | A3.1    | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.1.%20Notepad%2B%2B%20-%20Custom%20Theme.xml">Customização de Interface - Notepad++ </a> |
 | A3.2    | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.2.%20Windows%20Terminal%20-%20Custom%20Theme.json">Customização de Interface - Terminal Windows </a> |
 | A3.3    | <a href="https://vscodethemes.com/e/Jaakko.black/black">Customização de Interface - VS Code </a> |
-| A3.3.1  | <a href="https://vscodethemes.com/e/Jaakko.black/black">Customização de Interface | Sintaxe - VS Code </a> |
+| A3.3.1  | <a href="https://vscodethemes.com/e/Jaakko.black/black">Customização de Interface (Sintaxe) - VS Code </a> |
 
 </div> 
 </details>
