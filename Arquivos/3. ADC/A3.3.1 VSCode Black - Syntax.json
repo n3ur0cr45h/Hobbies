@@ -1,0 +1,73 @@
+{
+    "workbench.colorTheme": "Black",
+    "editor.semanticTokenColorCustomizations": {},
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "comment",
+                "settings": {
+                    "foreground": "#007700",
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "string",
+                "settings": {
+                    "foreground": "#00DD00"
+                }
+            },
+            {
+                "scope": "keyword",
+                "settings": {
+                    "foreground": "#00FF00",
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "markup.underline.link",
+                "settings": {
+                    "foreground": "#00CCCC",
+                    "fontStyle": "underline"
+                }
+            },
+            {
+                "scope": "variable",
+                "settings": {
+                    "foreground": "#00FF00"
+                }
+            },
+            {
+                "scope": "entity.name.function",
+                "settings": {
+                    "foreground": "#00FF00"
+                }
+            },
+            {
+                "scope": [
+                    "punctuation",
+                    "punctuation.definition",
+                    "meta.brace",
+                    "meta.brackets",
+                    "meta.parens",
+                    "keyword.operator",
+                    "delimiter"
+                ],
+                "settings": {
+                    "foreground": "#00FF00"
+                }
+            }
+        ]
+    },
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
+        "editor.foreground": "#00FF00",
+        "editorCursor.foreground": "#00FF00",
+        "editor.lineHighlightBackground": "#001100",
+        "editor.selectionBackground": "#004400AA",
+        "editorLineNumber.foreground": "#00AA00",
+        "sideBar.background": "#000000",
+        "sideBar.foreground": "#00FF00",
+        "activityBar.background": "#000000",
+        "activityBar.foreground": "#00FF00"
+    }
+}
