@@ -105,7 +105,7 @@
     [
         {
             "background": "#000000",
-            "black": "#05050C",
+            "black": "#00FF00",
             "blue": "#00FF00",
             "brightBlack": "#00FF00",
             "brightBlue": "#00FF00",
@@ -113,7 +113,7 @@
             "brightGreen": "#00FF00",
             "brightPurple": "#00FF00",
             "brightRed": "#00FF00",
-            "brightWhite": "#000000",
+            "brightWhite": "#00FF00",
             "brightYellow": "#00FF00",
             "cursorColor": "#00FF00",
             "cyan": "#00FF00",
