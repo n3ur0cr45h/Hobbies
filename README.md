@@ -1,5 +1,5 @@
 <div align="Center"> 
-<br>
+  
 
 <h4>
 ██╗░░██╗░█████╗░██████╗░██████╗░██╗███████╗░██████╗
@@ -16,7 +16,7 @@
 <details>
   <summary><b> 1. Retrocomputação - Leitura</b></summary>
 <div align="Left"> 
-<br>
+  
 
 | ID    | Título                              | 
 | ------| ------------------------------------|
@@ -31,7 +31,7 @@
 <details>
   <summary><b> 2. Retrocomputação - URLs </b></summary>
 <div align="Left"> 
-<br>
+  
 
 | ID    | Título                              |
 | ------| ------------------------------------|
@@ -47,7 +47,7 @@
 <details>
   <summary><b> 3. Artes | Design | Customizações </b></summary>
 <div align="Left"> 
-<br>
+  
 
 | ID      | Título                              |
 | --------| ------------------------------------|
