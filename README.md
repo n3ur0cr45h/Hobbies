@@ -59,6 +59,9 @@
 | A3.5    | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.5.%20Deus%20Ex%20Universe.jpg">Wallpaper - Deus Ex Universe </a> |
 | A3.6    | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.6.%20Deus%20Ex.jpg">Wallpaper - Deus Ex </a> |
 | A3.7    | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.7.%20TriOptimum.jpg">Wallpaper - TriOptimum </a> |
+| A3.8    | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.8.%20CEC.jpg">Wallpaper - CEC </a> |
+| A3.9    | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.9.%20CEC_1.jpg">Wallpaper - CEC 1 </a> |
+| A3.10   | <a href="https://github.com/n3ur0cr45h/Hobbies/blob/main/Arquivos/3.%20ADC/A3.10.%20CEC_2.jpg">Wallpaper - CEC 2 </a> |
 
 </div> 
 </details>
