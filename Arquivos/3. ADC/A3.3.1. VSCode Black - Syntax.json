@@ -1,45 +1,13 @@
-{
-    "workbench.colorTheme": "Black",
-    "editor.semanticTokenColorCustomizations": {},
-    "editor.tokenColorCustomizations": {
-        "textMateRules": [
-            {
-                "scope": "comment",
-                "settings": {
-                    "foreground": "#007700",
-                    "fontStyle": "italic"
-                }
-            },
-            {
-                "scope": "string",
-                "settings": {
-                    "foreground": "#00DD00"
-                }
-            },
-            {
-                "scope": "keyword",
-                "settings": {
-                    "foreground": "#00FF00",
-                    "fontStyle": "bold"
-                }
-            },
+        {
+            "workbench.colorTheme": "Black",
+            "editor.semanticTokenColorCustomizations": {},
+            "editor.tokenColorCustomizations": {
+                "textMateRules": [
             {
                 "scope": "markup.underline.link",
                 "settings": {
                     "foreground": "#00CCCC",
                     "fontStyle": "underline"
-                }
-            },
-            {
-                "scope": "variable",
-                "settings": {
-                    "foreground": "#00FF00"
-                }
-            },
-            {
-                "scope": "entity.name.function",
-                "settings": {
-                    "foreground": "#00FF00"
                 }
             },
             {
@@ -50,7 +18,23 @@
                     "meta.brackets",
                     "meta.parens",
                     "keyword.operator",
-                    "delimiter"
+                    "delimiter",
+					"entity.name.function",
+					"variable",
+					"keyword",
+					"string",
+					"comment",
+					"entity.name.tag.html",
+					"punctuation.definition.string.end.html",
+					"punctuation.definition.string.begin.html",
+					"string.quoted.double.html",
+					"punctuation.separator.key-value.html",
+					"punctuation.definition.tag",
+					"entity.other.attribute-name.html",
+					"entitu.name.tag.html",
+                    "text.html.markdown",
+                    "invalid",
+                    "punctuation.definition.quote.begin.markdown"
                 ],
                 "settings": {
                     "foreground": "#00FF00"
@@ -68,6 +52,9 @@
         "sideBar.background": "#000000",
         "sideBar.foreground": "#00FF00",
         "activityBar.background": "#000000",
-        "activityBar.foreground": "#00FF00"
-    }
+        "activityBar.foreground": "#00FF00",
+        "editorWarning.foreground": "#00FF00"
+    },
+    "remoteHub.commitDirectlyWarning": "off",
+    "security.workspace.trust.untrustedFiles": "open"
 }
