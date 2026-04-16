@@ -56,7 +56,7 @@
 | A3.3    | <a href="https://vscodethemes.com/e/Jaakko.black/black">Customização de Interface - VS Code </a> |
 | A3.3.1  | <a href="https://github.com/lndrprs/Hobbies/blob/main/Arquivos/3.%20ADC/A3.3.1.%20VSCode%20Black%20-%20Syntax.json">Customização de Interface (Sintaxe) - VS Code </a> |
 | A3.4    | <a href="https://github.com/lndrprs/Hobbies/blob/main/Arquivos/3.%20ADC/A3.14.%20Plain%20Black.png">Wallpaper - Plain Black </a> |
-| A3.5    | <a href="https://github.com/lndrprs/Hobbies/blob/main/Arquivos/3.%20ADC/A3.14.%20Plain%20Black.png">Powershell ISE - Tema Hacker </a> |
+| A3.5    | <a href="https://github.com/lndrprs/Hobbies/blob/main/Arquivos/3.%20ADC/Hacker.StorableColorTheme.ps1xml">Powershell ISE - Tema Hacker </a> |
 
 </div> 
 </details>
